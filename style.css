@@ -1,0 +1,27 @@
+body{
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+#applab{
+    background-color: coral;
+    
+}
+
+#line{
+    background-color: black;
+    width:100px;
+    height:6px;
+    margin: 10px auto;
+}
+
+
+img{
+    width: 250px;
+    height: 250px;
+    transition: transform 0.5s;
+}
+
+img:hover{
+    transform: scale(0.8);
+}
